@@ -9,6 +9,4 @@ A simple number guessing game in Python.
 
 ## How to Run
 1. Install Python (if not already installed).
-2. Run the script:
-   ```bash
-   python number_guessing_game.py
+2. Run the script
